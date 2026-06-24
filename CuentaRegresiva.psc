@@ -1,0 +1,14 @@
+Algoritmo CuentaRegresiva
+    Definir i Como Entero
+    
+    Escribir "Iniciando lanzamiento:"
+    
+    // Cuenta desde 10 hasta 1, restando 2 en cada paso
+    Para i <- 2 Hasta 10 Con Paso +2 Hacer
+        Escribir i
+    FinPara
+	
+	Esperar Tecla
+	Limpiar Pantalla
+	
+FinAlgoritmo
